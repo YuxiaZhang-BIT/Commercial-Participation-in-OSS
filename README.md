@@ -1,4 +1,4 @@
-# CommercialParticipationInOSS
+# Commercial Participation In OSS
 This repository is used to store the data, scripts and results of this study.
 
 Dataset: The research dataset used in the work can be found at:

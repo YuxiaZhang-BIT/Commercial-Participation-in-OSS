@@ -8,6 +8,7 @@ commits: http://activity.openstack.org/dash/browser/data_sources.html
 member profiles: https://www.openstack.org/community/members/
 
 Description of directories:
+
 Data: merged_developers.csv stores the results of developers after their identities merged. commits.csv is the relevant information of preprocessed commits. 
 
 Code: process.py is the scripts of Python to produce and visualize the answers for the research questions; cluster is the scripts of R language for classifying the 124 companies into eight models; modelers is the scripts of R language for analysis of the relationship between company diversity and the number of volunteers.
